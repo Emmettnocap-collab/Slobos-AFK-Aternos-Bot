@@ -6,8 +6,7 @@
     "type": "offline"
   },
   "server": {
-    "ip": "fultonSchoolserver.aternos.me
-",
+    "ip": "fultonSchoolserver.aternos.me",
     "port": 61598,
     "version": "",
     "try-creative": false
